@@ -1,0 +1,7 @@
+MR = Muro roto
+IN = Izquierda Normal
+MN = Medio Normal
+DN = Derecha Normal
+IR = Izquierda Roto
+MR = Medio Roto
+DR= Derecha Roto
